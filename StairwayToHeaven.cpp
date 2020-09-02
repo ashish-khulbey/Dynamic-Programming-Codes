@@ -1,3 +1,5 @@
+// Find number of ways to reach n'th step starting from 1st step. Can only move 1 or 2 step at a time. 
+
 #include<bits/stdc++.h>
 
 using namespace std;
